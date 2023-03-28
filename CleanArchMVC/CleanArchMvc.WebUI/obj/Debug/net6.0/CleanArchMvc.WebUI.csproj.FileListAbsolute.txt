@@ -29,3 +29,10 @@ C:\Users\Luk\Desktop\Repos\CleanArch\CleanArchMVC\CleanArchMvc.WebUI\obj\Debug\n
 C:\Users\Luk\Desktop\Repos\CleanArch\CleanArchMVC\CleanArchMvc.WebUI\obj\Debug\net6.0\CleanArchMvc.WebUI.pdb
 C:\Users\Luk\Desktop\Repos\CleanArch\CleanArchMVC\CleanArchMvc.WebUI\obj\Debug\net6.0\CleanArchMvc.WebUI.genruntimeconfig.cache
 C:\Users\Luk\Desktop\Repos\CleanArch\CleanArchMVC\CleanArchMvc.WebUI\obj\Debug\net6.0\ref\CleanArchMvc.WebUI.dll
+C:\Users\Luk\Desktop\Repos\CleanArch\CleanArchMVC\CleanArchMvc.WebUI\bin\Debug\net6.0\CleanArchMvc.Application.dll
+C:\Users\Luk\Desktop\Repos\CleanArch\CleanArchMVC\CleanArchMvc.WebUI\bin\Debug\net6.0\CleanArchMvc.Domain.dll
+C:\Users\Luk\Desktop\Repos\CleanArch\CleanArchMVC\CleanArchMvc.WebUI\bin\Debug\net6.0\CleanArchMvc.Infra.Data.dll
+C:\Users\Luk\Desktop\Repos\CleanArch\CleanArchMVC\CleanArchMvc.WebUI\bin\Debug\net6.0\CleanArchMvc.Infra.Data.pdb
+C:\Users\Luk\Desktop\Repos\CleanArch\CleanArchMVC\CleanArchMvc.WebUI\bin\Debug\net6.0\CleanArchMvc.Application.pdb
+C:\Users\Luk\Desktop\Repos\CleanArch\CleanArchMVC\CleanArchMvc.WebUI\bin\Debug\net6.0\CleanArchMvc.Domain.pdb
+C:\Users\Luk\Desktop\Repos\CleanArch\CleanArchMVC\CleanArchMvc.WebUI\obj\Debug\net6.0\CleanArchMvc.WebUI.csproj.CopyComplete
