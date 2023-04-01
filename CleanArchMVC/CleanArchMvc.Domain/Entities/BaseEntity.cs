@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace CleanArchMvc.Domain.Entities
 {
-    public class BaseEntity
+    public abstract class BaseEntity
     {
-        public int Id { get; set; }
+        public int Id { get; protected set; }
     }
 }
