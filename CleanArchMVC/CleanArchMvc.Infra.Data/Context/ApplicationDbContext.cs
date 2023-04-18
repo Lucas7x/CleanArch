@@ -13,8 +13,8 @@ namespace CleanArchMvc.Infra.Data.Context
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options) 
         { }
         
-        public DbSet<Category> categories { get; set; }
-        public DbSet<Product> products { get; set; }
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<Product> Products { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
