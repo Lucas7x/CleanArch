@@ -14,5 +14,6 @@ namespace CleanArchMvc.Domain.Interfaces
         public Task<Product> Create(Product product);
         public Task<Product> Update(Product product);
         public Task<Product> Remove(Product product);
+        public Task<Product> GetProductCategory(int? id);
     }
 }
